@@ -20,10 +20,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - [3. 两栏布局](#3-两栏布局)
 - [4. 三栏布局](#4-三栏布局)
 
-
-
 ### header+main+footer的全屏布局
-
 ### 带下划线的导航栏
 
 ### 两栏布局
