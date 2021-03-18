@@ -17,12 +17,12 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 常用的CSS布局
-- [1. header+main+footer的全屏布局](#1-header+main+footer的全屏布局)
-- [2. 带下划线的导航栏](#2-带下划线的导航栏)
-- [3. 两栏布局](#3-两栏布局)
-- [4. 三栏布局](#4-三栏布局)
+- header+main+footer的全屏布局
+- 带下划线的导航栏
+- 两栏布局
+- 三栏布局
 
 ## 有趣的CSS布局
 
-- [1. 3D Christmas Tree]()
+- 3D Christmas Tree
 
