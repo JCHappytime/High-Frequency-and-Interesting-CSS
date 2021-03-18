@@ -21,6 +21,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - 带下划线的导航栏
 - 两栏布局
 - 三栏布局
+- 垂直居中布局
 
 ## 有趣的CSS布局
 
