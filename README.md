@@ -19,7 +19,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 常用的CSS布局
 - header+main+footer的全屏布局
 - 带下划线的导航栏
-- 两栏布局
+- [两栏布局](https://juejin.cn/post/6876245139702939662)
 - 三栏布局
 - 垂直居中布局
 
