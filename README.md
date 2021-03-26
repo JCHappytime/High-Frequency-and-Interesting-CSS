@@ -1,4 +1,5 @@
 # high-frequency-use-css
+
 ## 目的
 
 1. 记录一些使用频率较高的CSS布局。当我们在拿到设计师给出来的设计图时，请首先考虑该如何布局你的页面，然后再开始开发。
@@ -17,6 +18,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 常用的CSS布局
+
 - header+main+footer的全屏布局
 - 带下划线的导航栏
 - [两栏布局](https://juejin.cn/post/6876245139702939662)
