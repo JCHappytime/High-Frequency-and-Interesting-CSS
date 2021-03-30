@@ -23,7 +23,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - 带下划线的导航栏
 - [两栏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/7)
 - [三栏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/8)
-- [垂直居中布局]()
+- [垂直居中布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/9)
 
 ## 有趣的CSS布局
 
