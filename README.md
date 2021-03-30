@@ -21,7 +21,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - header+main+footer的全屏布局
 - 带下划线的导航栏
-- [两栏布局](https://juejin.cn/post/6876245139702939662)
+- [两栏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/7)
 - 三栏布局
 - 垂直居中布局
 
