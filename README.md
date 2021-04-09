@@ -13,7 +13,6 @@ npm run build
 
 npm run lint
 ```
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 常用的CSS布局
 
