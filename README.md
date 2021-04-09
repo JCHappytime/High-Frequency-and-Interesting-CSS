@@ -23,13 +23,14 @@ Requires Node.js 6+
 
 ## 常用的CSS布局
 
-- [header+main+footer的全屏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/1)
-- 带下划线的导航栏
-- [两栏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/7)
-- [三栏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/8)
-- [垂直居中布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/9)
+- [1. header+main+footer的全屏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/1)
+- [2. 带下划线的导航栏]()
+- [3. 两栏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/7)
+- [4. 三栏布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/8)
+- [5. 垂直居中布局](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/9)
 
 ## 有趣的CSS布局
 
-- [3D Christmas Tree](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/3)
-- [华为手机充电效果图](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/6)
+- [1. 3D Christmas Tree](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/3)
+- [2. 华为手机充电效果图](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/6)
+- [3. 跳动的神树精灵]()
