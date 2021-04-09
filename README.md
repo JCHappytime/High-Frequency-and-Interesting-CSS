@@ -6,10 +6,16 @@
 ## Project setup
 ```
 npm install
-
 npm run serve
 
 ```
+
+## Specifications
+
+- [Element UI](https://element.eleme.io/#/zh-CN/component/installation)
+- Vue(2.x) + Vuex + Vue Router
+- Typescript
+- less
 
 ## 常用的CSS布局
 
