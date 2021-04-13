@@ -31,7 +31,4 @@ Requires Node.js 6+
 
 ## 有趣的CSS布局
 
-- [1. 3D Christmas Tree](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/3)
-- [2. 华为手机充电效果图](https://github.com/JCHappytime/High-Frequency-and-Interesting-CSS/issues/6)
-- [3. 跳动的神树精灵]()
-
+- [1. iCSS](https://github.com/chokcoco/iCSS)
